@@ -1,5 +1,5 @@
 <?php
-$dbConnectionStr ='mongodb+srv://root:xy186411zero@decade0-7mizc.mongodb.net/test?retryWrites=true&w=majority';
+$dbConnectionStr =''; //替换为自身的数据库链接
 $qrCodeUrl = 'http://localhost/scan_qrcode/login.php';
 $qrCodeImage = 'http://localhost/scan_qrcode/qrcode.php';
 ?>
